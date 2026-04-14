@@ -1,4 +1,5 @@
-## Projeto 01: baseado no Exemplo 2.5 Adição (para cálculo da média) de imagens ruidosas para a redução de ruídos. Construir, a partir de uma dada imagem, um procedimento prático para mostrar o conteúdo deste exemplo. 
+## Projeto 01: 
+- [ ] Baseado no Exemplo 2.5 Adição (para cálculo da média) de imagens ruidosas para a redução de ruídos. Construir, a partir de uma dada imagem, um procedimento prático para mostrar o conteúdo deste exemplo. 
 
 Questões que devem ser respondidas:
 - [ ] definir ruído em imagens digitais;
@@ -9,6 +10,6 @@ Questões que devem ser respondidas:
  
 
 Exercícios práticos: 
-- [ ] mostrar uma imagem colorida na tela do computador;
-- [ ] serpara os canais R, G e B; e
+- [x] mostrar uma imagem colorida na tela do computador;
+- [x] serpara os canais R, G e B;
 - [ ] reproduzir as Figuras 2.26 e 2.27.
